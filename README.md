@@ -1,0 +1,1 @@
+Ejecutar el comando `npm install` para inicializar el programa
